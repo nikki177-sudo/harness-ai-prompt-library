@@ -1,0 +1,17 @@
+activity:
+  description: ""
+  id: ActivityDifferentRepo
+  inputs: {}
+  name: ActivityDifferentRepo
+  outputs: {}
+  pipeline:
+    pipeline: default/BofADemo/ApprovalPipeline
+    inputSet:
+      pipeline: {}
+    stages: []
+    expression: {}
+    branch: ""
+    connectorRef: ""
+    parentEntityConnectorRef: ""
+    parentEntityRepoName: ""
+    repoIdentifier: ""
